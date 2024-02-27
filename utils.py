@@ -4,7 +4,7 @@
 import boto3
 
 # Initialize EC2 client
-ec2_client = boto3.client('ec2', region_name='us-east-1')
+ec2_client = boto3.client('ec2', region_name='aws_region_name')
 
 # function to count number of running instances
 def count_running_instances():
