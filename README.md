@@ -1,5 +1,5 @@
 # ec2-info
-This script will show following instance details of while run. </br>
+This script will show following instance details while run. </br>
 
 Instance ID: </br>
 Instance Type: </br>
