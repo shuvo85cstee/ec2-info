@@ -1,10 +1,9 @@
 # ec2-info
-This script will show following instance details of while run.
-'''
-Instance ID: 
-Instance Type: 
-State: 
-Launch Time: 
-Private IP: 
+This script will show following instance details of while run. </br>
+
+Instance ID: </br>
+Instance Type: </br>
+State: </br>
+Launch Time: </br>
+Private IP: </br>
 Public IP: 
-'''
